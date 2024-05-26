@@ -1,0 +1,4 @@
+# robots.txt for http://www.indiatourism-packages.org/ 
+User-agent: *
+Disallow: 
+Sitemap: http://www.indiatourism-packages.org/sitemap.xml
